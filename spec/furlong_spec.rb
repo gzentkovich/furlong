@@ -1,6 +1,6 @@
 require 'rspec'
-require './furlong'
 require 'spec_helper'
+require './furlong'
 
 describe Furlong do
   it "converts 1 mile to 1.60934 km" do
